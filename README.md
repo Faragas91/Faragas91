@@ -1,10 +1,6 @@
-## Hi 👋
-
-I'm Stefan — a passionate software developer
-
 ## 👋 About Me
 
- with a strong interest in clean code, scalable applications, and modern development workflows.  
+I'm Stefan — a passionate software developer with a strong interest in clean code, scalable applications, and modern development workflows.  
 I enjoy solving real-world problems through code and constantly improving my skills by exploring new frameworks, tools, and technologies.
 
 - 💻 Focus areas: Frontend, Data Sience and DevOps basics  
