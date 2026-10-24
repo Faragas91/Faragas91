@@ -4,8 +4,8 @@ I'm Stefan — a passionate software developer with a strong interest in clean c
 I enjoy solving real-world problems through code and constantly improving my skills by exploring new frameworks, tools, and technologies.
 
 - 💻 Focus areas: Frontend, Data Sience and DevOps basics  
-- 🚀 Technologies I enjoy: Python, FastAPI, JavaScript, Angular, Docker, Linux  
-- 🎯 Currently learning more about: React, VueJs and C#  
+- 🚀 Technologies I enjoy: Python, JavaScript, TypeScript, Angular, Docker, Linux  
+- 🎯 Currently learning more about: Phaser and C#  
 - 🧩 I love building practical tools, optimizing workflows, and contributing to open-source projects  
 - 🎮 In my free time: gaming, tinkering with Linux, and experimenting with new tech  
 
